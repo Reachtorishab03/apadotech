@@ -27,5 +27,3 @@ example swearing at someone calling them ugly
 9) No racial discrimination. Our service for all tradition
 
 We reserve the right to lock your acc for violating our rules and we also reserve the right to ban your ip for lifetime from even opening our website.
-
-<a href="index.html">Rules</a>
