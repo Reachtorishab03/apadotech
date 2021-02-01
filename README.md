@@ -12,4 +12,4 @@ Letter has an app. It will have many introductions.
   
   Letter will have a blog features. You can post blog with ad-free. You can also read other user blog. 
   
-Letter will be a best app in the history o social media.
+Letter will be a best app in the history of social media.
