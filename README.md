@@ -16,9 +16,17 @@ Letter will be the best app in the history of social media.
 
 # Related Websites
 (About)[https://letterofficial.github.io/Letter/letter.html]
+<br>
+<br>
 (Wix website)[https://smallpigannouncene.wixsite.com/letter]
+<br>
+<br>
 (Create a ticket)[https://smallpigannouncene.wixsite.com/letter]
+<br>
+<br>
 (Terms Of Use)[https://smallpigannouncene.wixsite.com/letter]
+<br>
+<br>
 (Q&A)[https://smallpigannouncene.wixsite.com/letter/q&a]
 
 
