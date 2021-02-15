@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head><meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
-<title>Letter</h1>
+<head>
+<title>Letter</title>
+<meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 This is the main page of official Letter websites.
 </head>
 <body>  
