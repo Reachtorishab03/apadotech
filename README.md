@@ -1,5 +1,5 @@
 # Letter
-The official websites code of Letter. Please help us expand the code.
+This is the main page of official Letter websites. 
 
 # Introduction
 Letter has an app. It will have many introductions. 
@@ -13,3 +13,12 @@ Letter has an app. It will have many introductions.
   Letter will have blog features. You can post blogs with ad-free. You can also read other users' blog. 
   
 Letter will be the best app in the history of social media.
+
+# Related Websites
+(About)[https://letterofficial.github.io/Letter/letter.html]
+(Wix website)[https://smallpigannouncene.wixsite.com/letter]
+(Create a ticket)[https://smallpigannouncene.wixsite.com/letter]
+(Terms Of Use)[https://smallpigannouncene.wixsite.com/letter]
+(Q&A)[https://smallpigannouncene.wixsite.com/letter/q&a]
+
+
