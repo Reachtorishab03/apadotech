@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Letter</title>
@@ -10,7 +9,7 @@
 <h1>Welcome to Letter official website.</h1>
 <br>
 <br>  
-<p style:"color:blue;">Introduction
+Introduction
 <br>
 <br>
 Letter has an app. It will have many introductions.
@@ -31,16 +30,16 @@ Letter will be the best app in the history of social media.</p>
   <h1>Related Websites</h1>
 <br>
 <br>
-(About)[https://letterofficial.github.io/Letter/letter.html]
+[About](https://letterofficial.github.io/Letter/letter.html)
 <br>
 <br>
-(Wix website)[https://smallpigannouncene.wixsite.com/letter]
+[Wix website](https://smallpigannouncene.wixsite.com/letter)
 <br>
 <br>
-(Create a ticket)[https://smallpigannouncene.wixsite.com/letter]
+[Create a ticket](https://smallpigannouncene.wixsite.com/letter)
 <br>
 <br>
-(Terms Of Use)[https://smallpigannouncene.wixsite.com/letter]
+[Terms Of Use](https://smallpigannouncene.wixsite.com/letter)
 <br>
 <br>
-(Q&A)[https://smallpigannouncene.wixsite.com/letter/q&a]
+[Q&A](https://smallpigannouncene.wixsite.com/letter/q&a)
