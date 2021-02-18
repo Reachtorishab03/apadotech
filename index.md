@@ -30,16 +30,16 @@ Letter will be the best app in the history of social media.</p>
   <h1>Related Websites</h1>
 <br>
 <br>
-[About](https://letterofficial.github.io/Letter/letter.html)
+<a href="https://letterofficial.github.io/Letter/about.html">About</a>
 <br>
 <br>
-[Wix website](https://smallpigannouncene.wixsite.com/letter)
+<a href="https://smallpigannouncene.wixsite.com/letter">Wix community</a>
 <br>
 <br>
-[Create a ticket](https://smallpigannouncene.wixsite.com/letter)
+<a href="https://letterofficial.github.io/Letter/ticket.html">Ticket</a>
 <br>
 <br>
-[Terms Of Use](https://smallpigannouncene.wixsite.com/letter)
+<a href="https://letterofficial.github.io/Letter/communityguidelines.html">Terms Of Use</a>
 <br>
 <br>
-[Q&A](https://smallpigannouncene.wixsite.com/letter/q&a)
+<a href="https://letterofficial.github.io/Letter/q&a">Q&A</a>
