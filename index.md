@@ -8,6 +8,7 @@
 
   gtag('config', 'G-K376CYE3N1');
 </script></head>
+<head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <title>Apado</title>
 <meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 
