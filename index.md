@@ -1,5 +1,13 @@
 <html>
-<head>G-2XTTB7H4YB</head>
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XTTB7H4YB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2XTTB7H4YB');
+</script></head>
 <title>Apado</title>
 <meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 
