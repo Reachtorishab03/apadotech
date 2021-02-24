@@ -12,7 +12,7 @@
 <title>Apado</title>
 <meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 
-<body>  
+<body><img src="https://lh3.googleusercontent.com/pTYCiWQDh2xjZFFx7rlqic1GO3gyimH-kl2HPQivSFQ2v-ZNAUPZDq-jSXyCt1elLmpS7bd-ijd4CHYVjtqtwRoz5nSPURuPFl2aMtQOglOUcUip6MdF8K0BrhVHPJSMCxM7eF0hQELTnYMps4RI73gm3EZAr2TLjPI7yjOiAr28IkjxDPADhAXgmdhOHZI06eWtA1vizI_OGvHzShtIMs0-OA65arO5hMt9pIdgnbTI2eKM6_52Xw4DhinLGGxrFg7y8egQEfg2uq0XPsNHwcERfdsjoF6zu5wcUxvRcL7HbLDHq3j8x2JyXHG_vG_UIkSB2sos310EII_P8OWcxeon42o84uo21bq3Ko380_FrGbx5fL9cjAtadfwZfgIa-1lh1ipWJZmeO6g4vO7EJ-d9QiZw9q3l_rmxDf1H2Ty_TFPvP1Ug1Ua21FAXb78aY7nskWvV4oUYItpE6oYDlfKRcHTJjpMcEB6tQu7GqkwJnE6GKw4oe5UOlVQVM6--hGS8BwyuRS4HXL7H6qWpsG_zStz4rmFdldGBUt5A8Bw7UxFz0kPRz_3OzyoFafl1BLCkTLDlxm0Jx3A8K769g-xSDESLENtpA77Sw8ffr89KRXFp5NH08aACvPijZ8TTEWxn3vfFmV86yNISbP7x13uevXWWyN0EAxQCiwRVjo-dDDI2nf8-u3g36vcg7Q=s625-no?authuser=0" alt="Apado" width="700" height="345">
 <br>
 <br>
 <h1>Welcome to Apado official website.</h1>
