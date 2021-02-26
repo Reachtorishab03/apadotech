@@ -1,4 +1,4 @@
-<h1 style="color:lime;">Apado chat</h1>
+<h1 style="color:lime;">Apado general chat</h1>
 
 Write your message here
 <div><input id=input placeholder="message" /></div>
@@ -35,14 +35,17 @@ All messages
                     message: input.value,
                     x: (input.value = '')
                 });
-        pubnub.fetchMessages(
+         pubnub.history(
     {
-        channels: ['channel'],
-        end: '15343325004275466',
-        count: 100
+        channel: 'chat',
     },
-    (status, response) => {
-        // handle response
+    function (status, response) {
+        var msgs = response.messages;
+
+        if (msgs != undefined && msgs.length > 0) {
+            // if msgs were retrieved, do something useful
+            console.log(msgs);
+        }
     }
 );
             }
