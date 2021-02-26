@@ -20,12 +20,12 @@ Chat Output
             }
         });
         pubnub.subscribe({
-            channels: [sub-c-53b90e66-77f6-11eb-a746-f25696a1d0fc]
+            channels: [sub-c-600fa2f4-77f8-11eb-b338-de22a5d8105b]
         });
         input.addEventListener('keyup', function(e) {
             if ((e.keyCode || e.charCode) === 13) {
                 pubnub.publish({
-                    channel: pub-c-6f59dfc8-1a0e-4b72-af4c-8f07edaede77,
+                    channel: pub-c-a4439d8c-448b-4d08-bad9-800a546854d1 ,
                     message: input.value,
                     x: (input.value = '')
                 });
