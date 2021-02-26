@@ -33,16 +33,6 @@ Chat Output
         });
     })();
 </script>
-// in browser
- const input = document.querySelector('input[file]');
 
- input.addEventListener('change', async () => {
-   const file = input.files[0];
-
-   const result = await pubnub.sendFile({
-     channel: 'my_channel',
-     file: file,
-   });
- });
 
 
