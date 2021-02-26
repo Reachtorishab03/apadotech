@@ -32,8 +32,18 @@ All messages
                     x: (input.value = '')
                 });
             }
-        });
+        })
     })();
 </script>
 
-
+// start, end, count are optional
+pubnub.fetchMessages(
+    {
+        channels: ['Developer'],
+        end: '15343325004275466',
+        count: 100
+    },
+    (status, response) => {
+        // handle response
+    }
+);
