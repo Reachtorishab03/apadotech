@@ -45,26 +45,4 @@ Chat Output
    });
  });
 
-// in Node.js
- import fs from 'fs';
 
- const myFile = fs.createReadStream('./cat_picture.jpg');
-
- const result = await pubnub.sendFile({
-   channel: 'my_channel',
-   file: { stream: myFile, name: 'cat_picture.jpg', mimeType: 'application/json' },
- });
-
-// in React and React Native
-const result = await pubnub.sendFile({
-  channel: 'my_channel',
-  message: {
-    test: 'message',
-    value: 42
-  },
-  file: {
-    uri: imageUri,
-    name: 'cat_picture.jpg',
-    mimeType: 'image/jpeg',
-  },
-});
