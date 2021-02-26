@@ -1,9 +1,9 @@
-<h1 style="color:lime;">Epic chat</h1>
-<h2>General chat for every Apado users</h2>
+<h1 style="color:lime;">Apado chat</h1>
 
-Type your message here:<div><input id=input placeholder="message" /></div>
+Write your message here
+<div><input id=input placeholder="message" /></div>
 
-All messages
+Chat Output
 <div id=box></div>
 
 <script src=https://cdn.pubnub.com/sdk/javascript/pubnub.4.28.2.min.js></script>
@@ -24,16 +24,16 @@ All messages
             }
         });
         pubnub.subscribe({
-            channels: [Developer]
+            channels: [channel]
         });
         input.addEventListener('keyup', function(e) {
             if ((e.keyCode || e.charCode) === 13) {
                 pubnub.publish({
-                    channel: Developer,
+                    channel: channel,
                     message: input.value,
                     x: (input.value = '')
                 });
             }
-        })
+        });
     })();
 </script>
