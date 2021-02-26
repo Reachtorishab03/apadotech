@@ -35,6 +35,16 @@ All messages
                     message: input.value,
                     x: (input.value = '')
                 });
+        pubnub.fetchMessages(
+    {
+        channels: ['channel'],
+        end: '15343325004275466',
+        count: 100
+    },
+    (status, response) => {
+        // handle response
+    }
+);
             }
         });
     })();
