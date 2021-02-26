@@ -5,8 +5,8 @@ Chat Output
 <script src=https://cdn.pubnub.com/sdk/javascript/pubnub.4.28.2.min.js></script>
 <script> (function() {
         var pubnub = new PubNub({
-            publishKey: 'demo',
-            subscribeKey: 'demo'
+            publishKey: 'pub-c-a4439d8c-448b-4d08-bad9-800a546854d1',
+            subscribeKey: 'sub-c-600fa2f4-77f8-11eb-b338-de22a5d8105b'
         });
         function $(id) {
             return document.getElementById(id);
@@ -20,12 +20,12 @@ Chat Output
             }
         });
         pubnub.subscribe({
-            channels: [sub-c-600fa2f4-77f8-11eb-b338-de22a5d8105b]
+            channels: [channel]
         });
         input.addEventListener('keyup', function(e) {
             if ((e.keyCode || e.charCode) === 13) {
                 pubnub.publish({
-                    channel: pub-c-a4439d8c-448b-4d08-bad9-800a546854d1 ,
+                    channel: channel,
                     message: input.value,
                     x: (input.value = '')
                 });
