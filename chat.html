@@ -22,12 +22,12 @@ All messages
             }
         });
         pubnub.subscribe({
-            channels: [channel]
+            channels: [Developer]
         });
         input.addEventListener('keyup', function(e) {
             if ((e.keyCode || e.charCode) === 13) {
                 pubnub.publish({
-                    channel: channel,
+                    channel: Developer,
                     message: input.value,
                     x: (input.value = '')
                 });
