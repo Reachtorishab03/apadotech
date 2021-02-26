@@ -35,5 +35,19 @@ Type your message here:<div><input id=input placeholder="message" /></div>
     })();
 </script>
 
+pubnub.addListener({
+  message: (message) => {
+    // handle message
+    const channelName = message.channel;
+    const channelGroup = message.subscription;
+    const publishTimetoken = message.timetoken;
+    const msg = message.message;
+    const publisher = message.publisher;
 
+    //show time
+    const unixTimestamp = message.timetoken / 10000000;
+    const gmtDate = new Date(unixTimestamp * 1000);
+    const localeDateTime = gmtDate.toLocaleString();
+  }
+});
 
