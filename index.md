@@ -64,4 +64,28 @@ Apado will be the best app in the history of social media.</p>
 <h2 style="color:green;">Small Pig reporter</h2>
 <br>
 <br>
-<h3 style="color;green;">Small Pig reporter is the main-founder of Apado. Small Pig reporter
+<h3 style="color;green;">Small Pig reporter is the main-founder of Apado. Small Pig reporter also the head of Apado development. 
+He the one who grouped Apado on discord in January of 2021. He is the one who founded of Apado idea. He also the CEO of Apado.
+Small Pig reporter is one of the designer of Apado. He designed the chat section of Apado. Small Pig reporter is the head of 
+web development too. He do mostly of Apado website code. He also an app developer. He worked on Apado app code as well. He also 
+the one who decided to leave discord due to many reasons. He also a translator of Apado from Chinese to English.
+<br>
+<br>
+Small Pig reporter is a Malaysian. Small Pig reporter is a Chinese. Small Pig reporter know English, Chinese and a little of 
+Malay. Small Pig reporter is a citizen of Pahang.  He is good at Chinese and English. He also a Youtubers. https://youtube.com/c/SmallPigreporter
+Email: smallpigannouncenews@gmail.com
+<br>
+<br>
+<h2 style="color:blue;">Shadow</h2>
+<br>
+<br>
+<h3 style="color:blue;">Shadow is the designer and moderator of Apado. He also Small Pig reporter bigger cousin. He also a founder 
+of Apado. He start with Small Pig reporter and another founder. He helped to design stuff with his cousin. He helped Apado development 
+as many as he can. He also the only two who stay with the development till it airs.
+<br>
+<br>
+Shadow is a Malaysian too. He also a Chinese. He know Chinese and English. He lived in Selangor.</h3>
+<br>
+<br>
+
+
