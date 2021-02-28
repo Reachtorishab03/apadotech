@@ -63,7 +63,17 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
+
+li {
+  border-right: 1px solid #bbb;
 }
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 </style>
 </head>
 <body>
