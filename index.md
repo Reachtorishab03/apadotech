@@ -17,30 +17,30 @@
 <style>
 <body>
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #FF0000;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: lime;
-  text-align: center;
-  padding: 14px 16px;
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
   text-decoration: none;
+  display: block;
+  text-align: left;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #00FF00;
+.dropdown-content a:hover {
+  background-color: #ddd;
 }
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 </style>
 </head>
