@@ -1,4 +1,4 @@
-<html>
+<html> 
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2XTTB7H4YB"></script>
 <script>
@@ -9,10 +9,103 @@
   gtag('config', 'G-K376CYE3N1');
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
+<head>  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #FF0000;
+}
+
+.navbar a {
+  border: dashed; 
+  float: left;
+  font-size: 16px;
+  color: blue;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: dashed;
+  outline: inlie;
+  color: blue;
+  padding: 4px 6px;
+  background-color: red; 
+  display: none;
+  position: absolute;
+  background-color: #00FF00; 
+  min-width: 160px;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: blue;
+  padding: 4px 6px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #A56B6B
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+  <a href="https://apadotech.github.io">Home</a>
+  <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
+        <a href="https://apadotech.github.io/privacypolicy.html">Privacy policy</a>
+      <div class="dropdown">
+      <button class="dropbtn">Info
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
+      <a href="https://apadotech.github.io/about.html">About</a>
+      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
+      <a
+      <div class="dropdown">
+    <button class="dropbtn">Features 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://apadotech.github.io/chat.hml">Chat</a>
+      <div class="dropdown">
+    <button class="dropbtn">Social media 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
+      <a href="https://www.facebook.com/apado2021/">Facebook page</a>
+      <a href="https://t.me/apadosupport">Telegram group</a>
+      <a href="https://t.me/apadoannouncement">Telegram channel</a>
+      <a href="https://twitter.com/Apado2021">Twitter</a>
+  </div>
+  </div> 
+</div>
+</body>
 <title>Apado</title>
 <meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
-
-<body>![Letter (1)](https://user-images.githubusercontent.com/79450260/109385571-c2968400-792f-11eb-8bcb-5483959b7670.png)
 
 <br>
 <br>
