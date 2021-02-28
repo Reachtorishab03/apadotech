@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-  overflow: hidden;
+  overflow: appear;
   background-color: #FF0000;
 }
 
@@ -78,22 +78,22 @@ body {
  <a href="https://apadotech.github.io/ticket.html">Ticket</a>
  <a href="https://apadotech.github.io/about.html">About</a>
  <a href="https://apadotech.github.io/q&a.html">Q&A</a>
-    <div class="dropdown">
-    <button class="dropbtn">Features 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://apadotech.github.io/chat.hml">Chat</a>
-      <div class="dropdown">
-    <button class="dropbtn">Social media 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
-      <a href="https://www.facebook.com/apado2021/">Facebook page</a>
-      <a href="https://t.me/apadosupport">Telegram group</a>
-      <a href="https://t.me/apadoannouncement">Telegram channel</a>
-      <a href="https://twitter.com/Apado2021">Twitter</a>
+ <div class="dropdown">
+ <button class="dropbtn">Features 
+ <i class="fa fa-caret-down"></i>
+ </button>
+ <div class="dropdown-content">
+ <a href="https://apadotech.github.io/chat.hml">Chat</a>
+ <div class="dropdown">
+ <button class="dropbtn">Social media 
+ <i class="fa fa-caret-down"></i>
+ </button>
+ <div class="dropdown-content">
+ <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
+ <a href="https://www.facebook.com/apado2021/">Facebook page</a>
+ <a href="https://t.me/apadosupport">Telegram group</a>
+ <a href="https://t.me/apadoannouncement">Telegram channel</a>
+ <a href="https://twitter.com/Apado2021">Twitter</a>
   </div>
   </div> 
 </div>
