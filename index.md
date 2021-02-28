@@ -48,13 +48,14 @@
 
 <div class="navbar">
   <a href="https://apadotech.github.io/">Home</a>
-  <a href="#news">News</a>
+  <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
+  <a href="https://apadotech.github.io/privacypolicy.html">Privacy Policy</a>
   <div class="dropdown">
-    <button class="dropbtn">Dropdown 
+    <button class="dropdown">Site 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
+      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
