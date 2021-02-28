@@ -56,9 +56,30 @@
     </button>
     <div class="dropdown-content">
       <a href="https://apadotech.github.io/ticket.html">Ticket</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="https://apadotech.github.io/about.html">About</a>
+      <a href="https://apadotech.github.io/update.html">Update</a>
+      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
     </div>
+     <div class="dropdown">
+    <button class="dropdown">Features 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://apadotech.github.io/chat.html">Chat</a>
+    </div>
+    <div class="dropdown">
+    <button class="dropdown">Social media 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
+      <a href="https://www.facebook.com/apado2021/">Facebook page</a>
+      <a href="https://twitter.com/Apado2021">Twitter</a>
+      <a href="https://youtube.com/c/SmallPigreporter">YouTube</a>
+      <a href="
+    </div>
+  </div> 
+  </div> 
   </div> 
 </div>
 
