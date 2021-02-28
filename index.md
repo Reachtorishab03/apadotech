@@ -10,7 +10,9 @@
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <head> 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 <body>
@@ -47,67 +49,25 @@ body {
   box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
-.dropdown-content a {
-  float: none;
-  color: blue;
-  padding: 4px 6px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-.dropdown-content a:hover {
-  background-color: #A56B6B
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-
-li {
-  border-right: 1px solid #bbb;
-}
-
-ul {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
 </style>
 </head>
 <body>
 
- <a href="https://apadotech.github.io">Home</a>
- <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
- <a href="https://apadotech.github.io/privacypolicy.html">Privacy policy</a>
- <div class="dropdown">
- <button class="dropbtn">Info
- <i class="fa fa-caret-down"></i>
- </button>
- <div class="dropdown-content">
- <a href="https://apadotech.github.io/ticket.html">Ticket</a>
- <a href="https://apadotech.github.io/about.html">About</a>
- <a href="https://apadotech.github.io/q&a.html">Q&A</a>
- <div class="dropdown">
- <button class="dropbtn">Features 
- <i class="fa fa-caret-down"></i>
- </button>
- <div class="dropdown-content">
- <a href="https://apadotech.github.io/chat.hml">Chat</a>
- <div class="dropdown">
- <button class="dropbtn">Social media 
- <i class="fa fa-caret-down"></i>
- </button>
- <div class="dropdown-content">
- <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
- <a href="https://www.facebook.com/apado2021/">Facebook page</a>
- <a href="https://t.me/apadosupport">Telegram group</a>
- <a href="https://t.me/apadoannouncement">Telegram channel</a>
- <a href="https://twitter.com/Apado2021">Twitter</a>
-  </div>
+<div class="navbar">
+  <a href="https://apadotech.github.io/">Home</a>
+  <a href="#news">News</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
   </div> 
 </div>
+
 <br>
 <br>
 <lr>
