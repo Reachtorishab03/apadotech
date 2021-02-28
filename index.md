@@ -23,6 +23,7 @@ body {
 }
 
 .navbar a {
+  display: block;
   border: dashed; 
   float: left;
   font-size: 16px;
