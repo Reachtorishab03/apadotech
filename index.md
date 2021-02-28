@@ -10,7 +10,38 @@
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <head> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.navbar {
+  overflow: hidden;
+  background-color: #FF0000;
+}
+
+.navbar a {
+  border: dashed; 
+  float: left;
+  font-size: 16px;
+  color: blue;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: dashed;
+  outline: inlie;
+  color: blue;
   min-width: 160px;
   box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
   z-index: 1;
