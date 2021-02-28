@@ -16,39 +16,32 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 <body>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
 
-.navbar {
-  overflow: appear;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   background-color: #FF0000;
 }
 
-.navbar a {
-  border: dashed; 
+li {
   float: left;
-  font-size: 16px;
-  color: blue;
+}
+
+li a {
+  display: block;
+  color: lime;
   text-align: center;
-  padding: 4px 6px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
-.dropdown {
-  float: left;
-  overflow: hidden;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #00FF00;
 }
 
-.dropdown .dropbtn {
-  font-size: 16px;  
-  border: dashed;
-  outline: inlie;
-  color: blue;
-  min-width: 160px;
-  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
 </style>
 </head>
 <body>
