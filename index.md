@@ -72,19 +72,18 @@ body {
 </head>
 <body>
 
-  <a href="https://apadotech.github.io">Home</a>
-  <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
-        <a href="https://apadotech.github.io/privacypolicy.html">Privacy policy</a>
-      <div class="dropdown">
-      <button class="dropbtn">Info
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
-      <a href="https://apadotech.github.io/about.html">About</a>
-      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
-      <a
-      <div class="dropdown">
+ <a href="https://apadotech.github.io">Home</a>
+ <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
+ <a href="https://apadotech.github.io/privacypolicy.html">Privacy policy</a>
+ <div class="dropdown">
+ <button class="dropbtn">Info
+ <i class="fa fa-caret-down"></i>
+ </button>
+ <div class="dropdown-content">
+ <a href="https://apadotech.github.io/ticket.html">Ticket</a>
+ <a href="https://apadotech.github.io/about.html">About</a>
+ <a href="https://apadotech.github.io/q&a.html">Q&A</a>
+    <div class="dropdown">
     <button class="dropbtn">Features 
       <i class="fa fa-caret-down"></i>
     </button>
