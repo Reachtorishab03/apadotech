@@ -76,7 +76,8 @@
       <a href="https://www.facebook.com/apado2021/">Facebook page</a>
       <a href="https://twitter.com/Apado2021">Twitter</a>
       <a href="https://youtube.com/c/SmallPigreporter">YouTube</a>
-      <a href="
+      <a href="https://t.me/apadosupport">Telegram group</a>
+      <a href="https://t.me/apadosupport">Telegram channel</a>
     </div>
   </div> 
   </div> 
