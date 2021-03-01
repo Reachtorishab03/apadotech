@@ -151,7 +151,9 @@ the one who decided to leave discord due to many reasons. He also a translator o
 <br>
 Small Pig reporter is a Malaysian. Small Pig reporter is a Chinese. Small Pig reporter know English, Chinese and a little of 
 Malay. Small Pig reporter is a citizen of Pahang.  He is good at Chinese and English. He also a Youtubers. https://youtube.com/c/SmallPigreporter
-Email: smallpigannouncenews@gmail.com
+<br>
+<br>
+Email: smallpigannouncenews@gmail.com</h3>
 <br>
 <br>
 <h2 style="color:blue;">Shadow</h2>
@@ -165,5 +167,30 @@ as many as he can. He also the only two who stay with the development till it ai
 Shadow is a Malaysian too. He also a Chinese. He know Chinese and English. He lived in Selangor.</h3>
 <br>
 <br>
-
+<h2 style="color:pink;">Wakjawa</h2>
+<br>
+<br>
+<h3 style="color:pink;">Wakjawa is one of the founder of Apado. Wakjawa is the designer and marketer of Apado. Wakjawa is the designer of Apado logo. Wakjawa also helped Apado
+marketing details. Wakjawa also the one who joined the development from the start.
+<br>
+<br>
+Wakjawa also a Malaysian. Wakjawa is the biggest in the team. Wakjawa is a Malay. He lives in Johor. He know Malay and English. He also many show hardcon fan.</h3>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<h1>Apado community</h1>
+<br>
+<br>
+<a href="https://t.me/apadosupport">Official Telegram</a>
+<br>
+<br>
+<a href="https://www.facebook.com/apado2021">Official Facebook page</a>
+<br>
+<br>
+<a href="https://www.facebook.com/groups/apado">Official Facebook group</a>
+<br>
+<br>
+<a href="https://twitter.com/@apado2021">Official Twitter</a>
 
