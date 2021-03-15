@@ -43,6 +43,54 @@
 
 
 </style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://apadotech.github.io/">Home</a>
+  <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
+  <a href="https://apadotech.github.io/privacypolicy.html">Privacy Policy</a>
+  <div class="dropdown">
+    <button class="dropdown">Site 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
+      <a href="https://apadotech.github.io/about.html">About</a>
+      <a href="https://apadotech.github.io/update.html">Update</a>
+      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
+    </div>
+     <div class="dropdown">
+    <button class="dropdown">Features 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://apadotech.github.io/chat.html">Chat</a>
+    </div>
+    <div class="dropdown">
+    <button class="dropdown">Social media 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
+      <a href="https://www.facebook.com/apado2021/">Facebook page</a>
+      <a href="https://twitter.com/Apado2021">Twitter</a>
+      <a href="https://youtube.com/c/SmallPigreporter">YouTube</a>
+      <a href="https://t.me/apadosupport">Telegram group</a>
+      <a href="https://t.me/apadosupport">Telegram channel</a>
+    </div>
+  </div> 
+  </div> 
+  </div> 
+</div>
+
+<br>
+<br>
+<lr>
+<br>
+<br>
+<title>Apado</title>
+<meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 <h1>
   <a href="" class="typewrite" data-period="2000" data-type='[ "Welcome to Apado", "You can find all info of Apado here" ]'>
     <span class="wrap"></span>
@@ -115,55 +163,6 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 </script>
-</head>
-<body>
-
-<div class="navbar">
-  <a href="https://apadotech.github.io/">Home</a>
-  <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
-  <a href="https://apadotech.github.io/privacypolicy.html">Privacy Policy</a>
-  <div class="dropdown">
-    <button class="dropdown">Site 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
-      <a href="https://apadotech.github.io/about.html">About</a>
-      <a href="https://apadotech.github.io/update.html">Update</a>
-      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
-    </div>
-     <div class="dropdown">
-    <button class="dropdown">Features 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://apadotech.github.io/chat.html">Chat</a>
-    </div>
-    <div class="dropdown">
-    <button class="dropdown">Social media 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://www.facebook.com/groups/226422159136173/">Facebook group</a>
-      <a href="https://www.facebook.com/apado2021/">Facebook page</a>
-      <a href="https://twitter.com/Apado2021">Twitter</a>
-      <a href="https://youtube.com/c/SmallPigreporter">YouTube</a>
-      <a href="https://t.me/apadosupport">Telegram group</a>
-      <a href="https://t.me/apadosupport">Telegram channel</a>
-    </div>
-  </div> 
-  </div> 
-  </div> 
-</div>
-
-<br>
-<br>
-<lr>
-<br>
-<br>
-<title>Apado</title>
-<meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
-
 <br>
 <br>
 <h1>Welcome to Apado official website.</h1>
