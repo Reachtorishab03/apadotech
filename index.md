@@ -125,7 +125,6 @@ body {
 <lr>
 <br>
 <br>
-<title>Apado</title>
 <meta name="google-site-verification" content="CJcmUOv4nQ4_BgLc0vr0vVojUHVCWV2LHqOK5XDdCWk" />
 <h1>
   <a href="" class="typewrite" data-period="2000" data-type='[ "Welcome to Apado", "You can find all info of Apado here" ]'>
