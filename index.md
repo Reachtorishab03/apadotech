@@ -267,10 +267,10 @@ as many as he can. He also the only two who stay with the development till it ai
 Shadow is a Malaysian too. He also a Chinese. He know Chinese and English. He lived in Selangor.</h3>
 <br>
 <br>
-<h2 style="color:pink;">Wakjawa</h2>
+<h2 style="color:#1321F5;">Wakjawa</h2>
 <br>
 <br>
-<h3 style="color:pink;">Wakjawa is one of the founder of Apado. Wakjawa is the designer and marketer of Apado. Wakjawa is the designer of Apado logo. Wakjawa also helped Apado
+<h3 style="color:#1321F5;">Wakjawa is one of the founder of Apado. Wakjawa is the designer and marketer of Apado. Wakjawa is the designer of Apado logo. Wakjawa also helped Apado
 marketing details. Wakjawa also the one who joined the development from the start.
 <br>
 <br>
