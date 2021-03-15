@@ -206,7 +206,7 @@ var TxtType = function(el, toRotate, period) {
 <h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
 <br>
 <br>
-<p style="color:#9513F5;"><b>Apado will have a chat features. Apado feature will let user chat with other users. You can feel free to chat with user from anywhere. You can chat in private direct message, temporary message, public channel.
+<h3 style="color:#9513F5;"><b>Apado will have a chat features. Apado feature will let user chat with other users. You can feel free to chat with user from anywhere. You can chat in private direct message, temporary message, public channel.
 <br>
 <br>
 Apado will have a video-sharing features. You can watch videos from our official or watch videos from others. You can also post videos for other to watch and enjoy. Our service also provide ad-free experience without paying for now.
@@ -215,7 +215,7 @@ Apado will have a video-sharing features. You can watch videos from our official
 Apado will have blog features. You can post blogs with ad-free. You can also read other users' blog.
 <br>
 <br>
-Apado will be the best app in the history of social media.<b></p>
+Apado will be the best app in the history of social media.</h3>
 <br>
 <br>
 <h1>Related Websites</h1>
