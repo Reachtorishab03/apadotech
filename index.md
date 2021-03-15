@@ -199,9 +199,6 @@ var TxtType = function(el, toRotate, period) {
     };
 </script>
 <br>
-<br>
-<h1 style="color:green;">Welcome to Apado official website.</h1>
-<br>
 <br>  
 <h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
 <br>
