@@ -200,16 +200,13 @@ var TxtType = function(el, toRotate, period) {
 </script>
 <br>
 <br>
-<h1>Welcome to Apado official website.</h1>
+<h1 style="color:green;">Welcome to Apado official website.</h1>
 <br>
 <br>  
-Introduction
+<h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
 <br>
 <br>
-Apado has an app. It will have many introductions.
-<br>
-<br>
-Apado will have a chat features. Apado feature will let user chat with other users. You can feel free to chat with user from anywhere. You can chat in private direct message, temporary message, public channel.
+<p style="color:#9513F5;">Apado will have a chat features. Apado feature will let user chat with other users. You can feel free to chat with user from anywhere. You can chat in private direct message, temporary message, public channel.
 <br>
 <br>
 Apado will have a video-sharing features. You can watch videos from our official or watch videos from others. You can also post videos for other to watch and enjoy. Our service also provide ad-free experience without paying for now.
@@ -256,7 +253,7 @@ the one who decided to leave discord due to many reasons. He also a translator o
 <br>
 <br>
 Small Pig reporter is a Malaysian. Small Pig reporter is a Chinese. Small Pig reporter know English, Chinese and a little of 
-Malay. Small Pig reporter is a citizen of Pahang.  He is good at Chinese and English. He also a Youtubers. https://youtube.com/c/SmallPigreporter
+Malay. Small Pig reporter is a citizen of Pahang.  He is good at Chinese and English. He also a Youtubers. https://youtube.com/c/SmallPigreporter</h3>
 <br>
 <br>
 Email: smallpigannouncenews@gmail.com</h3>
