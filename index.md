@@ -10,19 +10,57 @@
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <head> 
- 
-
+ !DOCTYPE html>
+<html>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-<body>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 14px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  overflow: hidden;
 }
 
 .dropdown-content a {
@@ -41,8 +79,6 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
 </style>
 </head>
 <body>
@@ -52,7 +88,7 @@
   <a href="https://apadotech.github.io/communityguidelines.html">Terms Of Use</a>
   <a href="https://apadotech.github.io/privacypolicy.html">Privacy Policy</a>
   <div class="dropdown">
-    <button class="dropdown">Site 
+    <button class="dropbtn">Website 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -61,15 +97,17 @@
       <a href="https://apadotech.github.io/update.html">Update</a>
       <a href="https://apadotech.github.io/q&a.html">Q&A</a>
     </div>
-     <div class="dropdown">
-    <button class="dropdown">Features 
+   </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Features 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
       <a href="https://apadotech.github.io/chat.html">Chat</a>
     </div>
-    <div class="dropdown">
-    <button class="dropdown">Social media 
+   </div>  
+  <div class="dropdown">
+    <button class="dropbtn">Social Media
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -81,10 +119,9 @@
       <a href="https://t.me/apadosupport">Telegram channel</a>
     </div>
   </div> 
-  </div> 
-  </div> 
 </div>
-
+</body>
+</html>
 <br>
 <br>
 <lr>
