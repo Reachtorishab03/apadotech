@@ -294,3 +294,6 @@ Wakjawa also a Malaysian. Wakjawa is the biggest in the team. Wakjawa is a Malay
 <br>
 <a href="https://twitter.com/@apado2021">Official Twitter</a>
 
+<hr>
+
+<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FBRQo3eeE&size=large" width="553" height="262" frameborder="0" scrolling="no"></iframe>
