@@ -13,6 +13,12 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<meta property="og:description" content="Welcome to Apado official website. Apado is a ultimate app
+with blog, chat, video-sharing app. Latest update about Apado!" />
+<meta property="og:keywords" content="Apado,Chat,Blog,Video-sharing,game,youtube,Apado update,Apado official update" />
+<meta property="og:site_name" content="YOUR_SITENAME" />
+<meta property="og:image" content="https://photos.app.goo.gl/nrxuKj2EfdEtJE2X7" />
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -198,6 +204,7 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 </script>
+<h1>Apado</h1>
 <br>
 <br>  
 <h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
