@@ -19,6 +19,7 @@ with blog, chat, video-sharing app. Latest update about Apado!" />
 
 <meta property="og:site_name" content="Apado" />
 <meta property="og:image" content="https://photos.app.goo.gl/nrxuKj2EfdEtJE2X7" />
+<meta name="propeller" content="d0f527b0c3a0f8ee7e04c8fba62ea725">
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
