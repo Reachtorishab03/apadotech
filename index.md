@@ -205,9 +205,46 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 </script>
+<script>
+firebase.auth()
+  .getRedirectResult()
+  .then((result) => {
+    if (result.credential) {
+      /** @type {firebase.auth.OAuthCredential} */
+      var credential = result.credential;
+
+      // This gives you a Google Access Token. You can use it to access the Google API.
+      var token = credential.accessToken;
+      // ...
+    }
+    // The signed-in user info.
+    var user = result.user;
+  }).catch((error) => {
+    // Handle Errors here.
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    // The email of the user's account used.
+    var email = error.email;
+    // The firebase.auth.AuthCredential type that was used.
+    var credential = error.credential;
+    // ...
+  });
+  </script>
 <h1>Apado</h1>
 <br>
 <br>  
+<body>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/8.3.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/8.3.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+<br>
+<br>
 <h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
 <br>
 <br>
@@ -301,7 +338,7 @@ Wakjawa also a Malaysian. Wakjawa is the biggest in the team. Wakjawa is a Malay
 <br>
 <br>
 <a href="https://twitter.com/@apado2021">Official Twitter</a>
-
+</body>
 <hr>
 
 <iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FBRQo3eeE&size=large" width="553" height="262" frameborder="0" scrolling="yes"></iframe>
