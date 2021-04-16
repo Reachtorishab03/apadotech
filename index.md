@@ -246,6 +246,7 @@ firebase.auth()
 <br>
 <br>
 <h2 style="color:#13F1F5;">Apado has an app. It will have many features.</h2>
+<iframe src="https://free.timeanddate.com/clock/i7rjy6xb/n122/tluk/fs20/fc0f0/tcff0/pc00f/ftbiu/bo2/pd2/tt0/td2/th1/ta1/tb4" frameborder="0" width="307" height="50"></iframe>
 <br>
 <br>
 <h3 style="color:#9513F5;"><b>Apado will have a chat features. Apado feature will let user chat with other users. You can feel free to chat with user from anywhere. You can chat in private direct message, temporary message, public channel.
