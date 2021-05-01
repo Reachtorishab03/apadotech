@@ -9,6 +9,17 @@
   gtag('config', 'G-K376CYE3N1');
 </script></head>
 <head><script data-ad-client="ca-pub-1562362109894661" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head> 
+<head> 
+<script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
+  d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
+  s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
+  ,'script','_gs');
+
+  _gs('GSN-249730-Y');
+  _gs('set', 'anonymizeIP', true);
+</script>
+</head>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -371,12 +382,3 @@ Wakjawa also a Malaysian. Wakjawa is the biggest in the team. Wakjawa is a Malay
   logged_in_greeting="Hi! How can we help you?"
   logged_out_greeting="Hi! How can we help you?">
       </div>
-<script>
-  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
-  d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
-  s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
-  ,'script','_gs');
-
-  _gs('GSN-249730-Y');
-  _gs('set', 'anonymizeIP', true);
-</script>
