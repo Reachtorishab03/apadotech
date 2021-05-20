@@ -273,6 +273,9 @@ Apado will have blog features. You can post blogs with ad-free. You can also rea
 <br>
 <br>
 Apado will be the best app in the history of social media.</h3>
+<head>
+  <script type="text/javascript" data-adel="atag" src="//achcdn.com/script/atg.js" czid="em69w3o3"></script>
+  </head>
 <br>
 <br>
 <h1>Related Websites</h1>
