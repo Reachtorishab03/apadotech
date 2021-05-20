@@ -297,6 +297,12 @@ Apado will be the best app in the history of social media.</h3>
 <br>
 <br>
 <h1 style="color:purple;">Development team</h1>
+
+<script type="text/javascript">
+var infolinks_pid = 3325546;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 <br>
 <br>
 <hr>
