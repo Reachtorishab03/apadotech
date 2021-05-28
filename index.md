@@ -1,6 +1,7 @@
 <html> 
 <head><!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2XTTB7H4YB"></script>
+  <meta content="noindex" name="robots"><link href="https://i.ibb.co/9bj5R7g/Golden-Pro.png" rel="icon" type="image/x-icon">
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
