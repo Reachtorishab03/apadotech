@@ -37,6 +37,7 @@ with blog, chat, video-sharing app. Latest update about Apado!" />
 <meta property="og:image" content="https://photos.app.goo.gl/nrxuKj2EfdEtJE2X7" />
 <meta name="propeller" content="d0f527b0c3a0f8ee7e04c8fba62ea725">
 <meta name="a.validate.01" content="c572f0cd2bd56bc3d30907ffa3e128d108b0" />
+ <meta content="noindex" name="robots"><link href="https://i.ibb.co/9bj5R7g/Golden-Pro.png" rel="icon" type="image/x-icon">
 <script type="text/javascript" src="https://s.skimresources.com/js/191516X1662982.skimlinks.js"></script>
 <style>
 body {
