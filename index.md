@@ -108,18 +108,18 @@ body {
 <body>
 
 <div class="navbar">
-  <a href="https://apadotech.github.io/">Home</a>
-  <a href="https://apadotech.github.io/tos.html">Terms Of Use</a>
-  <a href="https://apadotech.github.io/privacypolicy.html">Privacy Policy</a>
+  <a href="/about.html">Home</a>
+  <a href="/tos.html">Terms Of Use</a>
+  <a href="/privacypolicy.html">Privacy Policy</a>
   <div class="dropdown">
     <button class="dropbtn">Website 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://apadotech.github.io/ticket.html">Ticket</a>
-      <a href="https://apadotech.github.io/about.html">About</a>
-      <a href="https://apadotech.github.io/update.html">Update</a>
-      <a href="https://apadotech.github.io/q&a.html">Q&A</a>
+      <a href="/ticket.html">Ticket</a>
+      <a href="/about.html">About</a>
+      <a href="/update.html">Update</a>
+      <a href="/q&a.html">Q&A</a>
     </div>
    </div> 
   <div class="dropdown">
@@ -127,7 +127,7 @@ body {
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://apadotech.github.io/chat.html">Chat</a>
+      <a href="/chat.html">Chat</a>
     </div>
    </div>  
   <div class="dropdown">
@@ -290,16 +290,16 @@ Apado will be the best app in the history of social media.</h3>
 <h1>Related Websites</h1>
 <br>
 <br>
-<a href="https://apadotech.github.io/about.html">About</a>
+<a href="/about.html">About</a>
 <br>
 <br>
-<a href="https://apadotech.github.io/ticket.html">Ticket</a>
+<a href="/ticket.html">Ticket</a>
 <br>
 <br>
-<a href="https://apadotech.github.io/tos.html">Terms Of Use</a>
+<a href="/tos.html">Terms Of Use</a>
 <br>
 <br>
-<a href="https://apadotech.github.io/q&a.html">Q&A</a>
+<a href="/q&a.html">Q&A</a>
 <div id="awn-z4552371"></div>
 <br>
 <br>
